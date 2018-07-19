@@ -20,28 +20,28 @@ ctx.fill();
 ctx.beginPath();
 ctx.moveTo(174,78);
 ctx.quadraticCurveTo(180,72,185,78);
-ctx.lineWidth="2";
+ctx.lineWidth='2';
 ctx.strokeStyle = '#fff';
 ctx.stroke();
 //sourcil droit
 ctx.beginPath();
 ctx.moveTo(214,78);
 ctx.quadraticCurveTo(220,72,225,78);
-ctx.lineWidth="2";
+ctx.lineWidth='2';
 ctx.strokeStyle = '#fff';
 ctx.stroke();
 //Bouche haut
 ctx.beginPath();
 ctx.moveTo(182,110);
 ctx.quadraticCurveTo(200,120,220,110);
-ctx.lineWidth="2";
+ctx.lineWidth='2';
 ctx.strokeStyle = '#C33F07';
 ctx.stroke();
 //Bouche bas
 ctx.beginPath();
 ctx.moveTo(182,110);
 ctx.quadraticCurveTo(200,130,220,110);
-ctx.lineWidth="2";
+ctx.lineWidth='2';
 ctx.strokeStyle = '#C33F07';
 ctx.stroke();
 //Les bras
